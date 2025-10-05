@@ -32,8 +32,12 @@ DJANGO_AND_THIRD_PARTY_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
+
+
 PROJECT_APPS = [
     "apps.apps.AppsConfig",
+    "catalogs.apps.CatalogsConfig",
+    "commerces.apps.CommercesConfig",
 ]
 
 
