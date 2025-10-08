@@ -38,6 +38,8 @@ PROJECT_APPS = [
     "apps.apps.AppsConfig",
     "catalogs.apps.CatalogsConfig",
     "commerces.apps.CommercesConfig",
+    "abstract.apps.AbstractConfig",
+    "tasks.apps.TasksConfig",
 ]
 
 
